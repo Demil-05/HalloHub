@@ -4,6 +4,10 @@ Submition for the NewInTown ISE Hackathon
 
 https://github.com/user-attachments/assets/00d84ab4-c9d7-4ce6-bdca-56c5b8ddb269
 
+# Contributors
+- Oluwademilade Onasanya
+- Anusha Bhat
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
