@@ -2,6 +2,8 @@
 
 Submition for the NewInTown ISE Hackathon
 
+https://github.com/user-attachments/assets/2fabe14f-21e5-4038-9cf0-23339c1ef3a9
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
